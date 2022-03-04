@@ -2,6 +2,8 @@
 
 Plugin used in https://www.youtube.com/watch?v=4qC-fC14hYA made by toto7735 with ❤
 
+**Minecraft Version: 1.18.2**
+
 To use this plugin for your video, add the following in the video description (copy & paste)
 
 ```
