@@ -1,6 +1,6 @@
 # CongratulationYT
 
-#Plugin used in https://www.youtube.com/watch?v=4qC-fC14hYA made by toto7735 with ❤
+Plugin used in https://www.youtube.com/watch?v=4qC-fC14hYA made by toto7735 with ❤
 
 To use this plugin for your video, add the following in the video description (copy & paste)
 
